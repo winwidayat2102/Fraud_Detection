@@ -12,6 +12,8 @@ kepentingan nasabah.
 
 
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/2581ad28-b41c-4a28-aabb-e51059e22cfb)
+#### Transaksi yg terindikasi Fraud tertinggi terjadi di jam ke-4 dengan nomial transaksi diatas 2500000
+
 
 
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/0465644b-64f1-4e30-955d-52b6e4b76f5f)
