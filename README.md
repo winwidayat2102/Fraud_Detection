@@ -6,6 +6,11 @@ kepentingan nasabah.
 
 Link dataset : https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-example
 
+![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/f9e846ad-7a41-42f2-bdb8-1cc5bf1eac60)
+### Transaksi yg terindikasi Fraud bertipe Transfer dan Cash-out dengan nominal transaksi dibawah 600000
+
+
+
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/0465644b-64f1-4e30-955d-52b6e4b76f5f)
 ### Transaksi yang terindikasi Fraud tertinggi terjadi di waktu jam ke-6 dgn type transaksi cash-out dan transfer
 
