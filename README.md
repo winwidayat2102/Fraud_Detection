@@ -3,7 +3,7 @@ Dalam era globalisasi dan digitalisasi, sektor keuangan, khususnya perbankan, me
 Penipuan keuangan dapat merugikan perbankan dan nasabahnya, menyebabkan kerugian finansial yang signifikan dan merusak reputasi lembaga keuangan. Oleh karena itu, 
 deteksi transaksi keuangan yang terindikasi fraud menjadi suatu kebutuhan mendesak bagi lembaga perbankan guna menjaga integritas sistem keuangan dan melindungi 
 kepentingan nasabah.
-Link dataset : https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-example
+### Link dataset : https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-example
 
 
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/f9e846ad-7a41-42f2-bdb8-1cc5bf1eac60)
