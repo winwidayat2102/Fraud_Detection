@@ -5,3 +5,4 @@ deteksi transaksi keuangan yang terindikasi fraud menjadi suatu kebutuhan mendes
 kepentingan nasabah.
 
 Link dataset : https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-example
+
