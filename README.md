@@ -17,7 +17,7 @@ kepentingan nasabah.
 
 
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/3228aaff-76f5-47f8-8de4-8cadb25279a1)
-### Target variabel sangat tidak seimbang (imbalance) antara kelas non-Fraud dan Fraud, pada kasus ini  metrik evaluasi yg digunakan yaitu F1-score, karena F1-score memberikan gambaran yang lebih baik tentang kinerja model di tengah ketidakseimbangan, disamping itu F1-score mengambil keseimbangan nilai rata-rata dari Precision dan Recall, dan juga F1-score dapat mengidentifikasi model yang baik secara keseluruhan dalam menangani False Positives dan False Negatives
+#### Target variabel sangat tidak seimbang (imbalance) antara kelas non-Fraud dan Fraud, pada kasus ini  metrik evaluasi yg digunakan yaitu F1-score, karena F1-score memberikan gambaran yang lebih baik tentang kinerja model di tengah ketidakseimbangan, disamping itu F1-score mengambil keseimbangan nilai rata-rata dari Precision dan Recall, dan juga F1-score dapat mengidentifikasi model yang baik secara keseluruhan dalam menangani False Positives dan False Negatives
 
 
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/6d9cdc07-4a5b-4a5c-b333-06434990decf)
