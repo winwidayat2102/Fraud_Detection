@@ -14,6 +14,7 @@ Link dataset : https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-ex
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/0465644b-64f1-4e30-955d-52b6e4b76f5f)
 ### Transaksi yang terindikasi Fraud tertinggi terjadi di waktu jam ke-6 dgn type transaksi cash-out dan transfer
 
+
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/3228aaff-76f5-47f8-8de4-8cadb25279a1)
 ### Target variabel sangat tidak seimbang (imbalance) antara kelas non-Fraud dan Fraud, pada kasus ini  metrik evaluasi yg digunakan yaitu F1-score, karena F1-score memberikan gambaran yang lebih baik tentang kinerja model di tengah ketidakseimbangan, disamping itu F1-score mengambil keseimbangan nilai rata-rata dari Precision dan Recall, dan juga F1-score dapat mengidentifikasi model yang baik secara keseluruhan dalam menangani False Positives dan False Negatives
 
