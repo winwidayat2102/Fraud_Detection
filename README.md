@@ -7,6 +7,7 @@ kepentingan nasabah.
 
 
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/f9e846ad-7a41-42f2-bdb8-1cc5bf1eac60)
+#### Transaksi yg terindikasi Fraud bertipe Transfer dan Cash-out dengan nominal transaksi dibawah 600000
 
 
 ![image](https://github.com/winwidayat2102/Fraud_Detection/assets/153416421/2581ad28-b41c-4a28-aabb-e51059e22cfb)
